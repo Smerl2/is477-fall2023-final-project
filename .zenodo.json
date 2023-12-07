@@ -6,25 +6,23 @@
         }
     ],
 
-    "license": "MIT License",
+    "access_right": "open",
+
+    "upload_type": "software",
+
+    "license": "MIT",
 
     "title": "Reproduction of Simona Merlin IS 477 Final Project",
+
+    "description": "Analysis of Online Retail Dataset",
 
     "related_identifiers": [
         {
             "scheme": "doi",
-            "identifier": "10.5281/zenodo.10073206",
-            "relation": "cites",
-            "resource_type": "Datasets"
-        },
-        {
-            "scheme": "url",
-            "identifier": "https://github.com/Smerl2/is477-fall2023/releases/tag/Assignment-1",
-            "relation": "isSupplementTo",
-            "resource_type": "Software"  
+            "identifier": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+            "relation": "cites"
 
         }
-        
     ],
-    "keywords" : ["Machine Learning", "Data", "Git"]
+    "keywords" : ["Analysis", "Data", "Git"]
 }

@@ -1,0 +1,30 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0003-7448-0596",
+            "name": "Merlin, Simona"
+        }
+    ],
+
+    "license": "MIT License",
+
+    "title": "Reproduction of Simona Merlin IS 477 Final Project",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.10073206",
+            "relation": "cites",
+            "resource_type": "Datasets"
+        },
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/Smerl2/is477-fall2023/releases/tag/Assignment-1",
+            "relation": "isSupplementTo",
+            "resource_type": "Software"  
+
+        }
+        
+    ],
+    "keywords" : ["Machine Learning", "Data", "Git"]
+}

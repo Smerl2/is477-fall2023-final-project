@@ -19,7 +19,7 @@
     "related_identifiers": [
         {
             "scheme": "doi",
-            "identifier": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+            "identifier": "https://doi.org/10.24432/C5BW33",
             "relation": "cites"
 
         }
